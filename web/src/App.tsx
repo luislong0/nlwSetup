@@ -1,6 +1,6 @@
 // import { Habit } from "./components/Habit"
 import './styles/global.css'
-
+import './lib/dayjs'
 import { Plus } from 'phosphor-react'
 import { Header } from './components/Header'
 import { SummaryTable } from './components/SummaryTable'
